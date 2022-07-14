@@ -3,7 +3,7 @@ that other students found helpful and rated highly.
 <br><br>
 Comments Slideshow:
 <br>
-https://alandavidgrunberg.github.io/useful_comments
+https://alandavidgrunberg.github.io/helpful_comments
 <br><br>
 My Sololearn profile:
 <br>
