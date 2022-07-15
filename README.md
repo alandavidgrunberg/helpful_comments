@@ -1,9 +1,9 @@
 https://alandavidgrunberg.github.io/helpful_comments
 <br><br>
 Comments I made while studying Python, data science, and machine learning on Sololearn.com 
-that other students found helpful and rated highly.
+that other students found helpful and rated highly. 
 <br><br>
-Sections: <br>
+Topics:<br>
 evaluation metrics <br>
 decision trees & random forests <br>
 k-means clustering & k-nearest neighbors <br>
